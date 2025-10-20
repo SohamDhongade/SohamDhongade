@@ -1,6 +1,5 @@
 ## Hello! This is Soham Dhongade
 
-!--
 I am a graduate student in Computer Engineering, specializing in VLSI, at Arizona State University.
 Here are some ideas to get you started:
 
